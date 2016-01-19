@@ -1,0 +1,20 @@
+{
+  "name": "aws-s3-demo",
+  "version": "1.0.0",
+  "description": "Use AWS SDK to access S3 service",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "s3",
+    "nodejs"
+  ],
+  "author": "Hank",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.2.30"
+  }
+}
